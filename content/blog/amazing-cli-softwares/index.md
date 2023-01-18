@@ -1,5 +1,5 @@
 ---
-title: Useful CLI apps you need to know
+title: Amazing CLI softwares you must know
 date: "2022-09-29"
 description: "List of cool command line apps I frequently use. Works on MacOS or any UNIX based system.
 There is some rare gems people absolutely need to know about."
@@ -7,7 +7,7 @@ tags: CLI, UNIX
 ---
 Let me know what app you discovered from this article in a comment section below 😏
 
-# CLI software
+# Dear Windows users,
 
 First of all, you need one good commandline software on your system. Powershell or cmd is not one of them.
 Check out the following and see what you like the most:
@@ -15,6 +15,7 @@ Check out the following and see what you like the most:
 * [mintty](https://mintty.github.io/) Don't be afraid of the website, the software quality is excellent.
 * [New Windows Terminal](https://github.com/microsoft/terminal) by Microsoft, they're making a new commandline.
 
+Moving on from Windows users now.∂
 # Text editors
 
 ## vim
