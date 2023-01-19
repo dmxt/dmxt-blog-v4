@@ -311,6 +311,7 @@ a:focus {
 }
 
 .blog-post header h1 {
+  font-weight: var(--fontWeight-bold);
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }
 

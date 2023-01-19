@@ -1,13 +1,16 @@
 ---
-title: Amazing CLI softwares you must know
+title: Amazing CLI tools you must know
 date: "2022-09-29"
-description: "List of cool command line apps I frequently use. Works on MacOS or any UNIX based system.
-There is some rare gems people absolutely need to know about."
+description: "List of cool command line tools I frequently use. Works on MacOS or any UNIX based system.
+There is some rare gems you absolutely need to know about."
 tags: CLI, UNIX
 ---
+There are some apps you may already know about, and there may be some apps you don't know about. I plan to continuously
+update this article.
+
 Let me know what app you discovered from this article in a comment section below 😏
 
-# Dear Windows users,
+### Dear Windows users,
 
 First of all, you need one good commandline software on your system. Powershell or cmd is not one of them.
 Check out the following and see what you like the most:
@@ -15,10 +18,12 @@ Check out the following and see what you like the most:
 * [mintty](https://mintty.github.io/) Don't be afraid of the website, the software quality is excellent.
 * [New Windows Terminal](https://github.com/microsoft/terminal) by Microsoft, they're making a new commandline.
 
-Moving on from Windows users now.∂
+Moving on from Windows users now. This blog is about UNIX-based system with a terminal.
+
 # Text editors
 
-## vim
+### vim
+This is the obvious one.
 
 I've gotten so more productive by learning and using vim. 
 Especially on Mac when you cannot right-click and create a new
@@ -62,7 +67,7 @@ You can [download micro right here](https://micro-editor.github.io/) and get sta
 
 # File explorers
 
-## fzf
+### fzf
 
 If you want to search for any file on your entre system, then `fzf` is a perfect fit for you. This software is amazingly fast at searching any filename on your system.
 

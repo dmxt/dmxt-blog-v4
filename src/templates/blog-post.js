@@ -54,8 +54,11 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
+
+
       {/* Disqus comment section */}
-      <h2>Comments</h2>
+      <hr />
+      <h3>Share your comment here ❤️</h3>
       <ReactDisqusComments
         className={`disqus-comment-section`}
         shortname="dmxt-blog"
