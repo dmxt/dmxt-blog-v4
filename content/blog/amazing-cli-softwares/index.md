@@ -79,7 +79,10 @@ and a search function.
 
 ## ranger
 
-Very powerful file explorer you can use inside your commandline, and it functions like a regular file explorer.
+Very powerful file explorer you can use inside your commandline, and it functions like a regular file 
+explorer.
+
+![ranger](../../images/ranger.png)
 
 #### How to install:
 
