@@ -80,7 +80,7 @@ and a search function.
 ## ranger
 
 Very powerful file explorer you can use inside your commandline, and it functions like a regular file 
-explorer.
+explorer. This is useful if you do not have access to GUI file explorer like accessing a server commandline.
 
 ![ranger](../../images/ranger.png)
 
