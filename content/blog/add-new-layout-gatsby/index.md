@@ -8,14 +8,18 @@ tags: Gatsby, React, Development, Webdev
 I want to create a simple section component to implement on other page file.
 
 I tried following an [official tutorial](https://www.gatsbyjs.com/docs/how-to/routing/layout-components/) on Gatsby, 
-but their code returned error, so I had to figure it out for myself.
- ow you don't have to figure it out as I did now that you're here reading this article.
-<br />
+but their code returned an error (note on bottom of article), 
+so I had to figure it out for myself.
 
-Here's how you can get started:
+Now you don't have to figure it out as I did now that you're here reading this article. 🥳
+
+Oh by the way, I'm using Gatsby v4.24.1 as of writing.
+
+
+# Let's get started!
 
 #### Create a component file
-1. Create a new file at `src/components/section.js`:
+1. Create a new file at `src/components/section.js`
 
 ```javascript
 import React from "react"
@@ -25,16 +29,16 @@ export default function Section({ children }) {
 }
 ```
 
-#### Import a component on a desired page:
+#### Import a component on a desired page
 
-31. Before using your new component, you need to import to your desired file first:
+1. Before using your new component, you need to import to your desired file first.
 
 ```javascript
 import Section from "../components/section"
 ```
 
 3. Lastly, add the following where you want it to be visible. 
-4. It must be in same file you imported the compoent (Step 2)
+4. It must be in same file you imported the component (Step 2)
 
 ```javascript
 <Section>
@@ -46,7 +50,5 @@ import Section from "../components/section"
 Once your sample section show up in your desired page. 
 Congratulation. You have successfully completed this tutorial! 🎉
 
----
-
 <b>Note</b>: When I tried to follow the official tutorial, they told me to use `export default` function but
-home page `pages/index.js` rejected multiple `export default` calls
+home page `pages/index.js` rejected multiple `export default` calls.
