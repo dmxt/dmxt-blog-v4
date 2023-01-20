@@ -8,6 +8,7 @@ comment: https://jamstack-comments.netlify.app/about/
 ---
 
 I like using Disqus because it's simple to setup and simple for anyone to place a comment.
+Some people dislike it for security reasons.
 
 Some articles don't work at all, so I found this working method to add comment sections to my blog articles and this should work for you too!
 
@@ -17,8 +18,8 @@ Some articles don't work at all, so I found this working method to add comment s
 1. Login (or register) on https://disqus.com/
 2. Go to https://disqus.com/admin/install/ and click on Gatsby in the list
 3. Start configuring Disqus for "Your site" similar to the following:
-![Enter the field: webite name](images/disqus-setting.png)
-Remember your entry for "Wesite Name:" field, circled, you'll need it to put it in a config later.
+![disqus-settings](images/disqus-setting.png)
+Remember your entry for "Website Name:" field, circled, you'll need it to put it in a config later.
 
 # 2. Installation
 **A. Install on `npm`**
