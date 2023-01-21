@@ -6,8 +6,7 @@
 <h1 align="center">
   dmxt blog on Gatsby
 </h1>
-<p align="center">Open sourced</p>
-
+<p align="center">Open sourced (v4.23.1)</p>
 
 
 ##  Quick start 🚀
