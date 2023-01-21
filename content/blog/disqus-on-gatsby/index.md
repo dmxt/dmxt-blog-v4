@@ -24,8 +24,7 @@ Remember your entry for "Website Name:" field, circled, you'll need it to put it
 # 2. Installation
 **A. Install on `npm`**
 1. Stop `gatsby develop`
-2. Run `react-disqus-comments` (???)
-3. Run `npm install react-disqus-comments`
+2. Run `npm install react-disqus-comments`
 
 **B. Install on `yarn`** (preferred)
 1. Stop `gatsby develop`
